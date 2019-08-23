@@ -3,7 +3,7 @@
 The Roku 2 FireTV converter is a software tool that easily converts your Roku MRSS or JSON feed file to an Amazon FireTV feed file.  Using this tool will allow you to maintain one feed file that serves two seprate platforms (Roku and Amazon).
 
 
-**NOTE: This software is not endorsed by or affiliated with Roku in any way.**
+**NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any way.**
 
 # Prerequisites
 * 64 Bit Windows: 7, 8, 10.
