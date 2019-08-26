@@ -8,7 +8,7 @@ The Roku 2 FireTV converter is a software tool that easily converts your Roku MR
 # Prerequisites
 * 64 Bit Windows: 7, 8, 10.
 * .Net Framework 4.7.1
-* 90MB Free Disk Space.
+* 5MB Free Disk Space.
 * Minimum screen resolution: 1366 X 768.
 
 # Installation
