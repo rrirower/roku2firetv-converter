@@ -12,7 +12,7 @@ The Roku 2 FireTV converter is a software tool that easily converts your Roku MR
 * Minimum screen resolution: 1366 X 768.
 
 # Installation
-Please download the setup zip file from the latest release.  Unzip the file and run the installer.
+Please download the setup file from the latest release.
 
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/roku2firetv-converter/releases/latest)
 
